@@ -34,7 +34,7 @@ We propose an **Event-Driven Ambient Multi-Agent Blackboard Architecture**.
 
 The design separates deterministic safety and stream processing from non-deterministic agentic reasoning. It uses a governed per-customer state board, tripartite memory, stage-specific multi-agent coordination, bounded action generation, HITL approval and auditable outputs.
 
-## 2.1 High-Level Flowchart
+## 2.1 Flowchart
 
 ```mermaid
 flowchart TD
